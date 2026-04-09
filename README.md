@@ -1,4 +1,4 @@
-Helo, currently devoleping a certain app.
+Helo, currently fuckin' up some code
 
 <!---
 Cloudstrife101/Cloudstrife101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
